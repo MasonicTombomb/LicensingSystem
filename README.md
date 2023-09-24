@@ -74,4 +74,4 @@ please check our [contribution guidelines]().
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/MasonicTombomb/LicensingSystem/blob/main/LICENSE) file for details.
